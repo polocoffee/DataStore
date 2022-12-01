@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataStore</string>
+    <string name="light_theme">Light Theme</string>
+</resources>
